@@ -1,4 +1,4 @@
-# MachineLearningLecture
+# Machine Learning
 
 This project contains code and resources created while studying scikit-learn.
 
