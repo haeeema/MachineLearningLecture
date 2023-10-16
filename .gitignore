@@ -1,3 +1,11 @@
+#my
+labeledTrainData.tsv
+model/
+
+# Size is too big, Kaggle Movies dataset.
+credits.csv
+ml-latest.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
